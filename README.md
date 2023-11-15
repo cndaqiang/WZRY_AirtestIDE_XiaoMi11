@@ -1,5 +1,8 @@
 # 王者熟练度工具使用方法
 
+## 后续更新
+https://github.com/cndaqiang/AirTest_MobileAuto_WZRY
+
 ## 安装初始化
 
 1. 打开网页 https://airtest.netease.com/ 下载安装
